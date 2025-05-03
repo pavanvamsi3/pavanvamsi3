@@ -1,10 +1,4 @@
-Seasoned engineering leader with nearly a decade of experience in driving enterprise-scale software development, release governance, and service reliability. 
-
-🔹Passionate about optimizing cloud infrastructure, enhancing service scalability, and aligning engineering solutions.
-
-🔹Expertise in strategic planning, cross-functional collaboration, and vendor management, ensuring seamless operations at scale.
-
-🔹Always up for a chat on startups, business, new tech, football, F1, and climate change. 
+I write here and also here https://medium.com/@pavanvamsi
 
 Let’s connect! ⚡| 👋 Say hi to the Fox! 
 
